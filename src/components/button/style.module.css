@@ -13,3 +13,19 @@
     min-width: 100px;
     cursor: pointer;
 }
+
+.button__second{
+    padding-block: 16px;
+    padding-inline: 48px;
+    color: #FCFCFC;
+    font-family: Liberation Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 10px;
+    background: #5E92B6;
+    box-shadow: 1px 3px 3px 0px rgba(92, 133, 194, 0.23);
+    cursor: pointer;
+    border: none;
+}

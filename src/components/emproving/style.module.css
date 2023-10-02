@@ -1,0 +1,84 @@
+.emproving{
+    padding-block: 160px;
+    position: relative;
+    /* overflow: hidden; */
+}
+.title__box{
+    margin-inline-start: 251px;
+    margin-block-end: 110px;
+}
+
+.emproving__title{
+    color: #3B619A;
+    font-family: Candal;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-block-end: 24px;
+}
+
+
+.emproving__subTitle{
+    color: #787695;
+    font-family: Liberation Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-inline-start: 120px;
+}
+
+.flex__group{
+    display: flex;
+    gap: 179px;
+}
+
+.emproving__info{
+    padding-block-start: 66px;
+    max-width: 417px;
+}
+
+.emproving__description{
+    margin-block-end: 96px;
+    color: #272727;
+    font-family: Liberation Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px; 
+}
+
+.side__block{
+    position: absolute;
+    right: 20px;
+    top: 348px;
+}
+
+.image__box{
+    width: max-content;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    overflow: hidden;
+}
+
+.image__box:nth-child(1){
+    transform: rotate(90deg);
+}
+
+.image__box:nth-child(2){
+    transform: rotate(-90deg);
+    position: relative;
+    top: -100px;
+}
+
+.image__box:nth-child(3){
+    transform: rotate(90deg);
+    position: relative;
+    top: -200px;
+}
+
+.image__box:nth-child(4){
+    transform: rotate(-90deg);
+    position: relative;
+    top: -300px;
+}
