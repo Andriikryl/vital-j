@@ -1,0 +1,35 @@
+.hero{
+    background-image: url("/hero/hero-bg.jpg");
+    height: 100dvh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-block-start: 232px;
+}
+
+.hero__title{
+    color: #FCFCFC;
+    font-family: Candal;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-block-end: 23px;
+    text-align: center;
+}
+
+.hero__description{
+    color: #FCFCFC;
+    font-family: Liberation Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-block-end: 112px;
+    text-align: center;
+}
+
+.center__box{
+    width: max-content;
+    margin-inline: auto;
+}

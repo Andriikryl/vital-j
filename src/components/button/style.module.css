@@ -1,0 +1,15 @@
+.button__main{
+    padding-block: 16px;
+    padding-inline: 48px;
+    color: #FCFCFC;
+    font-family: Liberation Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 10px;
+    border: 2px solid #FCFCFC;
+    background-color: transparent;
+    min-width: 100px;
+    cursor: pointer;
+}
