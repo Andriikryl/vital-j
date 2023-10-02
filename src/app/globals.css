@@ -1,4 +1,10 @@
 /* Box sizing rules */
+
+:root{
+  --white: #FCFDFE;
+  --black: #272727;
+}
+
 *,
 *::before,
 *::after {
